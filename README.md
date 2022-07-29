@@ -18,14 +18,14 @@ Grouping the rows according to the month was the greatest challenge I faced when
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+###Conclusions for Outcomes based on Launch Date
 The pivot table and line graph that I created allow us to understand whether the launch date effects the outcome of the campaign. For instance, the line graph and pivot table show us that the campaigns with launch dates in May and June had the most successful outcomes. There were significantly more successful outcomes than failed outcomes in these months in relation to the other months in the calendar year. I can therefore draw the conclusion that May and June are the best months to launch a crowd-funding campaign for plays. The second conclusion that I can draw from this analysis is that December is the worst month to launch a kickstarter campaign. In December, there were about the same amount of failed Kickstarter campaigns as there were successful ones. This is the only month in the calendar year where these two outcomes are virtually the same. Therefore, I would advise Louise not to launch a Kickstarter campaign in the month of December. These two conclusions are very helpful to Louise because in the future she can launch her kickstarter campaigns during the more successful periods and avoid launching a campaign during December. 
 
-- What can you conclude about the Outcomes based on Goals?
+###Conclusions for Outcomes based on Goals
 The table and line graph I created show me that campaigns with a funding goal of over $45,000 are much more likely to fail. I can see this in the line graph as well as the table that I created. Therefore, I would advise Louse to keep her campaign goals under $45,000.
 
-- What are some limitations of this dataset?
+###Limitations of the Dataset
 This dataset does not include information that could have had a large effect on the outcome of the campaign. A major factor that could have impacted the outcome of the campaign includes how this kickstarter was shared and how many people had visibility to this campaign. For instance, if Louise did a lot of marketing on her Kickstarter campaigns during the months of May and June, that could explain why those months had more successful outcomes. This limited data only shows a small picture of why these campaigns were successful or why they failed. Although it looks like the launch dates and the goals played a role in the success of these campaigns, other information would be important to validate this claim because we cannot assume that the campaigns were identical except for their launch dates and funding goals. 
 
-- What are some other possible tables and/or graphs that we could create?
+###Other Graph Possibilities
 One graph we could create is outcome based on number of backers. This would be interesting as we could see whether the amount of backers was positively correlated with the success of the campaign. If it was, then we could advise Louise to try to seek out a larger audience for her Kickstarter campaigns. A second graph we could create is average donation based on the Kickstarter goal. This would help us to understand if the goal effected the average amount of money donated. For instance, if the goal was small, would this cause people to donate less money? 
